@@ -43,14 +43,14 @@
     "test": "react-app-rewired test",
     "eject": "react-scripts eject",
 
-    "electron": "electron .",
     "dev": "concurrently \"electron .\" \"cross-env BROWSER=none yarn start\"",
     "package": "electron-forge package",
     "make": "electron-forge make",
+    "electron": "electron .",
 
-    "prettier": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json,css,scss,md}\"",
     "lint": "eslint --ext .js,.jsx,.ts,.tsx src --fix",
-    "check": "eslint --ext .js,.jsx,.ts,.tsx src"
+    "check": "eslint --ext .js,.jsx,.ts,.tsx src",
+    "prettier": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json,css,scss,md}\""
   },
   "config-overrides-path": "config/config-overrides.js",
   "build": {
