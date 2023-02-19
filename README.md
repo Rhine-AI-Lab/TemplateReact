@@ -3,7 +3,7 @@
 ```text
 一个完美的React项目最佳实现初始模板，具备充分框架，与开发插件，功能及发展方向全面。
 
-技术栈: React, TypeScript, Sass, Redux, Electron, Eslint, Axios, MaterialYou。
+技术栈: React, MaterialYou, TypeScript, Sass, Redux, Electron, Eslint, Axios。
 ```
 
 
