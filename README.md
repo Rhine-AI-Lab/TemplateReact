@@ -1,7 +1,7 @@
 # Template of React
 
 ```text
-一个完美的React项目开始模板（个人观点），具备充分框架，与开发插件，功能及发展方向全面。
+一个完美的React项目最佳实现初始模板，具备充分框架，与开发插件，功能及发展方向全面。
 
 技术栈: React, TypeScript, Sass, Redux, Electron, Eslint, Axios, MaterialYou。
 ```
@@ -61,7 +61,7 @@ customize-cra : 用于自定义配置webpack。
 
 ### 2. Language
 ```text
-typescript(tsx) : 伪强类型脚本语言，规范化性优秀，结构清晰，tsx替代js+html。
+typescript(Tsx) : 伪强类型脚本语言，规范化性优秀，结构清晰，tsx替代js+html。
 node-sass(Scss) : 更符合逻辑的样式标记语言，支持定义变量,计算等操作，替代css。
 
 sass-resources-loader : 用于加载sass资源。
